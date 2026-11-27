@@ -521,7 +521,6 @@ def rgb(c):
 
 
 BUTTON_STYLES = {
-    # name: (normal color, hover color, text color)
     "pink":   ("#ff8fc7", "#ffb3da", "#1a0f2e"),
     "green":  ("#7dffb0", "#b0ffd0", "#0b2b1a"),
     "cyan":   ("#7ee8fa", "#b5f3ff", "#0c2430"),
